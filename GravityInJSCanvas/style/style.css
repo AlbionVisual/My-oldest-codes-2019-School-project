@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+button {
+    position: absolute;
+}
+
+#r {
+    top: 308px;
+    left: 737px;
+}
+
+#d {
+    top: 308px;
+    left: 668px;
+}
+
+#l {
+    top: 308px;
+    left: 614px;
+}
+
+#u {
+    top: 268px;
+    left: 680px;
+}
+
+#foot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(58, 57, 57);
+}
+
+#foot div {
+    font-size: 20px;
+}

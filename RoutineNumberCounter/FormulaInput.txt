@@ -1,0 +1,21 @@
+Sport:
+0 0 0 0 0 0 
+0 0 0 0 0 0
+0 0 0 0 0 0
+GetUp: 7.5
+Sleep: 7
+Breakfast: 0
+Water: 1.5
+Freak: 0.0
+Food: 0.5
+Harm: 0
+Coding: 0
+Piano: 0.5
+Typing: 0.0
+English: 0.0
+Unnessesary: 0
+Useful: 0.0
+Studing: 5.666
+Playing: 0
+Thinking: 0.0
+Freshing: 1.5
